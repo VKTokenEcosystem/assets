@@ -1,0 +1,36 @@
+{
+  "name": "VK Token",
+  "type": "BEP20",
+  "symbol": "VK",
+  "decimals": 18,
+  "status": "active",
+  "description": "VK Token (VK) is a BEP20 token on the BNB Smart Chain with a maximum supply of 28,000,000,000 tokens. The project focuses on building a decentralized ecosystem with user-driven participation and has been audited by SolidProof.",
+  "website": "https://vktoken.org",
+  "explorer": "https://bscscan.com/token/0x6A43cB09fC6D16525F38eCfA27Cc568282D86678",
+  "id": "0x6A43cB09fC6D16525F38eCfA27Cc568282D86678",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/vktoken"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/vktoken_announcement"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/vk-token/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/vk-token"
+    },
+    {
+      "name": "audit",
+      "url": "https://app.solidproof.io/projects/vktoken"
+    }
+  ],
+  "tags": [
+    "defi"
+  ]
+}
