@@ -28,10 +28,6 @@
     {
       "name": "coingecko",
       "url": "https://coingecko.com/en/coins/vk-token"
-    },
-    {
-      "name": "audit",
-      "url": "https://app.solidproof.io/projects/vktoken"
     }
   ],
   "tags": [
