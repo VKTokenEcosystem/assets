@@ -18,6 +18,10 @@
       "url": "https://t.me/vktoken_announcement"
     },
     {
+            "name": "whitepaper",
+            "url": "https://vktoken.org/whitepaper.pdf"
+        },
+    {
       "name": "coinmarketcap",
       "url": "https://coinmarketcap.com/currencies/vk-token/"
     },
